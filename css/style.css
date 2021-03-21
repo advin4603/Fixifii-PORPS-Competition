@@ -50,6 +50,9 @@ nav,
 .leftfooter {
   flex: 1;
 }
+#featured-img{
+  height: 80vh;
+}
 nav ul,
 .footer-links {
   justify-content: space-around;
